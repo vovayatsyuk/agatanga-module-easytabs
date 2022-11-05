@@ -29,3 +29,35 @@ Unset,Unset
 "Disable items","Disable items"
 "Replace default Magento tabs with powerful tabs from Swissup.","Replace default Magento tabs with powerful tabs from Swissup."
 "Show product description in tab","Show product description in tab"
+"Show CMS static block content in tab","Show CMS static block content in tab"
+"Show related products in tab","Show related products in tab"
+"Product attribute","Product attribute"
+"Hide on product page","Hide on product page"
+"""Tab identifier should be specified","""Tab identifier should be specified"
+"Hide on Product","Hide on Product"
+Accordion,Accordion
+Tabs,Tabs
+"Tab's index opened by default. Index starts with ""0"". All closed when value is ""-1"". You can set few indexes separating them with comma.","Tab's index opened by default. Index starts with ""0"". All closed when value is ""-1"". You can set few indexes separating them with comma."
+"Show we also recommend (upsell) products in tab","Show we also recommend (upsell) products in tab"
+"Create tab based on product attribute","Create tab based on product attribute"
+"Product page tabs","Product page tabs"
+Appearance,Appearance
+"Load content with ajax","Load content with ajax"
+"Show product additional information in tab","Show product additional information in tab"
+"Open initially","Open initially"
+"List of tabs from ""Swissup"" &rarr; ""Easytabs"" with option 'Hidden on Product'.","List of tabs from ""Swissup"" &rarr; ""Easytabs"" with option 'Hidden on Product'."
+"Can open multiple tabs","Can open multiple tabs"
+"Show product reviews in tab","Show product reviews in tab"
+"Product Type","Product Type"
+"Collapsed tabs (traditional layout)","Collapsed tabs (traditional layout)"
+"Tabs to show","Tabs to show"
+Swissup,Swissup
+"Create custom tab based on custom block and template","Create custom tab based on custom block and template"
+"Expanded tabs","Expanded tabs"
+"The tab entity with the ""%1"" alias doesn't exist.","The tab entity with the ""%1"" alias doesn't exist."
+"Swissup AMP","Swissup AMP"
+"Additional Information","Additional Information"
+"Insert any html content in tab","Insert any html content in tab"
+"Don't add any condition when tab is always visible.","Don't add any condition when tab is always visible."
+Tab,Tab
+Easytabs,Easytabs
