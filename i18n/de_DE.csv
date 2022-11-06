@@ -7,6 +7,7 @@
 "Tab Information","Registerkarte Informationen"
 Alias,Alias
 "Block Type",Blocktyp
+"Please select item(s).","Bitte wählen Sie Artikel aus."
 "Tab was deleted.","Tab wurde gelöscht."
 "Can't find a tab to delete.","Es kann keine Registerkarte zum Löschen gefunden werden."
 "Manage Tabs","Registerkarten verwalten"
@@ -22,5 +23,7 @@ Unset,"Nicht eingestellt"
 "Product Description",Produktbeschreibung
 "We Also Recommend","Wir empfehlen auch"
 "Product's Reviews",Produktbewertungen
+"Select Block...","Wählen Sie Block ..."
+"Delete items","Elemente löschen"
 "Enable items","Elemente aktivieren"
 "Disable items","Elemente deaktivieren"
