@@ -7,7 +7,6 @@
 "Tab Information",タブ情報
 Alias,エイリアス
 "Block Type",ブロックタイプ
-"Please select item(s).",アイテムを選択してください。
 "Tab was deleted.",タブが削除されました。
 "Can't find a tab to delete.",削除するタブが見つかりません。
 "Manage Tabs",タブを管理する
@@ -23,7 +22,5 @@ Unset,未設定
 "Product Description",製品の説明
 "We Also Recommend",私たちもお勧め
 "Product's Reviews",製品のレビュー
-"Select Block...",ブロックを選択...
-"Delete items",アイテムを削除する
 "Enable items",アイテムを有効にする
 "Disable items",アイテムを無効にする

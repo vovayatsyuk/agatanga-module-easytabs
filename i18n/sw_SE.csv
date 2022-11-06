@@ -7,7 +7,6 @@
 "Tab Information",Flikinformation
 Alias,Alias
 "Block Type",Blocktyp
-"Please select item(s).","Välj objekt (er)."
 "Tab was deleted.","Fliken raderades."
 "Can't find a tab to delete.","Det går inte att hitta en flik att ta bort."
 "Manage Tabs","Hantera flikar"
@@ -23,7 +22,5 @@ Unset,unset
 "Product Description",Produktbeskrivning
 "We Also Recommend","Vi rekommenderar också"
 "Product's Reviews","Produktens recensioner"
-"Select Block...","Välj Block ..."
-"Delete items","Ta bort objekt"
 "Enable items","Aktivera artiklar"
 "Disable items","Inaktivera objekt"
