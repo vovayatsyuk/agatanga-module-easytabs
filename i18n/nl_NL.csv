@@ -7,7 +7,6 @@
 "Tab Information","Tabblad Informatie"
 Alias,Alias
 "Block Type",Bloktype
-"Please select item(s).","Selecteer item (s)."
 "Tab was deleted.","Tabblad is verwijderd."
 "Can't find a tab to delete.","Kan geen tabblad vinden om te verwijderen."
 "Manage Tabs","Tabbladen beheren"
@@ -23,7 +22,5 @@ Unset,Uitgeschakeld
 "Product Description",Productbeschrijving
 "We Also Recommend","We raden ook aan"
 "Product's Reviews","Product beoordelingen"
-"Select Block...","Selecteer Block ..."
-"Delete items","Items verwijderen"
 "Enable items","Activeer items"
 "Disable items","Schakel items uit"
