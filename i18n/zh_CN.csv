@@ -7,6 +7,7 @@
 "Tab Information",标签信息
 Alias,别名
 "Block Type",块类型
+"Please select item(s).",请选择项目。
 "Tab was deleted.",标签页已删除。
 "Can't find a tab to delete.",找不到要删除的标签。
 "Manage Tabs",管理标签
@@ -22,5 +23,7 @@ Unset,未设定
 "Product Description",产品说明
 "We Also Recommend",我们也推荐
 "Product's Reviews",产品评论
+"Select Block...",选择阻止...
+"Delete items",删除项目
 "Enable items",启用项目
 "Disable items",禁用项目

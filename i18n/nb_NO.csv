@@ -7,6 +7,7 @@
 "Tab Information",Tabulatorinformasjon
 Alias,Alias
 "Block Type",Blokkertype
+"Please select item(s).","Velg vare (r)."
 "Tab was deleted.","Fanen ble slettet."
 "Can't find a tab to delete.","Finner ikke en fane å slette."
 "Manage Tabs","Administrer faner"
@@ -22,5 +23,7 @@ Unset,unset
 "Product Description",Produktbeskrivelse
 "We Also Recommend","Vi anbefaler også"
 "Product's Reviews","Produktets anmeldelser"
+"Select Block...","Velg blokker ..."
+"Delete items","Slett elementer"
 "Enable items","Aktiver elementer"
 "Disable items","Deaktiver elementer"

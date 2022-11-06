@@ -7,6 +7,7 @@
 "Tab Information","Informations sur l'onglet"
 Alias,Alias
 "Block Type","Type de bloc"
+"Please select item(s).","Veuillez sélectionner les articles."
 "Tab was deleted.","L'onglet a été supprimé."
 "Can't find a tab to delete.","Impossible de trouver un onglet à supprimer."
 "Manage Tabs","Gérer les onglets"
@@ -22,5 +23,7 @@ Unset,Désarmé
 "Product Description","Desription de produit"
 "We Also Recommend","Nous recommandons également"
 "Product's Reviews","Avis sur le produit"
+"Select Block...","Sélectionnez Bloquer ..."
+"Delete items","Supprimer des éléments"
 "Enable items","Activer les éléments"
 "Disable items","Désactiver les éléments"

@@ -7,6 +7,7 @@
 "Tab Information","Tab Information"
 Alias,Alias
 "Block Type","Block Type"
+"Please select item(s).","Please select item(s)."
 "Tab was deleted.","Tab was deleted."
 "Can't find a tab to delete.","Can't find a tab to delete."
 "Manage Tabs","Manage Tabs"
@@ -22,6 +23,8 @@ Unset,Unset
 "Product Description","Product Description"
 "We Also Recommend","We Also Recommend"
 "Product's Reviews","Product's Reviews"
+"Select Block...","Select Block..."
+"Delete items","Delete items"
 "Enable items","Enable items"
 "Disable items","Disable items"
 "Replace default Magento tabs with powerful tabs from Swissup.","Replace default Magento tabs with powerful tabs from Swissup."
@@ -57,4 +60,3 @@ Swissup,Swissup
 "Don't add any condition when tab is always visible.","Don't add any condition when tab is always visible."
 Tab,Tab
 Easytabs,Easytabs
-"Tabs to show","Tabs to show"
